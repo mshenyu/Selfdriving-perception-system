@@ -1,0 +1,2 @@
+aruco_mapping:aruco_ros/aruco:aruco_ros/aruco_msgs:aruco_ros/aruco_ros:lidar_camera_calibration
+-DCATKIN_DEVEL_PREFIX=/home/densomkz/perception/lidar_camera/devel -DCMAKE_INSTALL_PREFIX=/home/densomkz/perception/lidar_camera/install -G Unix Makefiles
