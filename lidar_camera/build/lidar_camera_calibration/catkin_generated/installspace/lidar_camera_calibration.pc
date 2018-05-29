@@ -1,0 +1,8 @@
+prefix=/home/densomkz/perception/lidar_camera/install
+
+Name: lidar_camera_calibration
+Description: Description of lidar_camera_calibration
+Version: 0.0.1
+Cflags: -I/home/densomkz/perception/lidar_camera/install/include
+Libs: -L/home/densomkz/perception/lidar_camera/install/lib 
+Requires: std_msgs
