@@ -18,3 +18,5 @@ This feature-based optimization is created by using the feature-corresponding op
 Result of featured-based optimization:
 ![alt text](images/lm.png "feature-based optimization")
 
+### Lidar camera calibration
+For the lidar camera calibration, I follows the [publication](https://arxiv.org/abs/1705.09785) and [open code](https://github.com/ankitdhall/lidar_camera_calibration) of Ankit Dhall, Kunal Chelani, Vishnu Radhakrishnan and K.M. Krishna. They use aruco markers to find the 3D-to-3D correspondences of the the board’s edge and the marker’s center from lidar and camera respectively. Then they use UPnP to iterate 100 times to obtain the final result of the lidar-to-camera transformation matrix.
