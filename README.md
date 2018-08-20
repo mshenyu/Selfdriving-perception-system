@@ -42,10 +42,10 @@ After synchronization, the duplication is eliminated and the distortion is corre
 
 The difference of information-arrive time of different sensors needs to be considered because the velocity of the vehicle can result in displacement in space during the difference of their time. For example, the pillars of a bridge is distorted without synchronization:
 
-![alt text](images/multi_sync1.png "unsynchronized multiple lidar")
+![alt text](images/multi_sync2.png "unsynchronized multiple lidar")
 
 After synchronization, the displacement is removed:
 
-![alt text](images/multi_sync2.png "synchronized multiple lidar")
+![alt text](images/multi_sync1.png "synchronized multiple lidar")
 
 Sensor synchronization can only deals with static objects. For those dynamic objects, new methods are needed to detect the speed of those objects before the correction of the distortion is implemented.
