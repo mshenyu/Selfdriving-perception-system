@@ -6,7 +6,7 @@
 ## Sensor Calibration
 ### Multiple lidar calibration
 During this project, there are two methods tried for multi-lidar calibration: GICP and Feature-based optimization.
-#### 1. GICCP
+#### 1. GICP
 Offered by PCL library. 
 
 Result of GICP for 3 Velodynes:
