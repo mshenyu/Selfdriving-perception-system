@@ -48,4 +48,4 @@ After synchronization, the displacement is removed:
 
 ![alt text](images/multi_sync1.png "synchronized multiple lidar")
 
-Sensor synchronization can only deals with static objects. For those dynamic objects, new methods are needed to detect the speed of those objects before the correction of the distortion is implemented.
+Sensor synchronization can only deals with static objects. For those dynamic objects, new methods are needed to detect the speed of those objects before the correction of the distortion is implemented. 
