@@ -1,5 +1,5 @@
 # Autonomous Vehicle System Building
-
+![alt text](images/lidar.png "Pointcloud of the setup")
 ## Lidar Configuration
 ![alt text](images/lidar.png "configuration")
 
